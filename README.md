@@ -4,8 +4,6 @@
 
 
 
-
-
 # HACKER_RANK
 
 Welcome to the **HACKER_RANK** repository!  
