@@ -1,10 +1,5 @@
 
 
-
-
-
-
-
 # HACKER_RANK
 
 
