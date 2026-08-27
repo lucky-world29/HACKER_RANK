@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-
 # HACKER_RANK
 
 
